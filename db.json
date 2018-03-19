@@ -6,8 +6,10 @@
       "date": "segunda-feira",
       "firstIn": "08:00",
       "firstOut": "11:58",
-	  "secondIn": "13:21",
-	  "secondOut": "18:00"
+      "secondIn": "13:21",
+      "secondOut": "18:00",
+      "fa": "00:01",
+      "ex": "01:00"
     }
   ],
   "profile": {
