@@ -10,6 +10,28 @@
       "secondOut": "18:00",
       "fa": "00:01",
       "ex": "01:00"
+    },
+    {
+      "id": 2,
+      "weekDay": "02/01/2018",
+      "date": "TERÇA-FEIRA",
+      "firstIn": "08:00",
+      "firstOut": "11:58",
+      "secondIn": "13:21",
+      "secondOut": "18:00",
+      "fa": "02:01",
+      "ex": "03:00"
+    },
+    {
+      "id": 3,
+      "weekDay": "03/01/2018",
+      "date": "QUARTA-FEIRA",
+      "firstIn": "08:00",
+      "firstOut": "11:58",
+      "secondIn": "13:21",
+      "secondOut": "18:00",
+      "fa": "00:01",
+      "ex": "01:00"
     }
   ],
   "profile": {
