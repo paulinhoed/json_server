@@ -2,8 +2,8 @@
   "pontos": [
     {
       "id": 1,
-      "weekDay": "01/01/2018",
-      "date": "segunda-feira",
+      "weekDay": "segunda-feira",
+      "date": "01/01/2018",
       "firstIn": "08:00",
       "firstOut": "11:58",
       "secondIn": "13:21",
@@ -13,8 +13,8 @@
     },
     {
       "id": 2,
-      "weekDay": "02/01/2018",
-      "date": "TERÇA-FEIRA",
+      "weekDay": "TERÇA-FEIRA",
+      "date": "02/01/2018",
       "firstIn": "08:00",
       "firstOut": "11:58",
       "secondIn": "13:21",
@@ -24,8 +24,8 @@
     },
     {
       "id": 3,
-      "weekDay": "03/01/2018",
-      "date": "QUARTA-FEIRA",
+      "weekDay": "QUARTA-FEIRA",
+      "date": "03/01/2018",
       "firstIn": "08:00",
       "firstOut": "11:58",
       "secondIn": "13:21",
