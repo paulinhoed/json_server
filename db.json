@@ -8,8 +8,19 @@
       "firstOut": "11:58",
       "secondIn": "13:21",
       "secondOut": "18:00",
+      "ch": "00:01",
+      "ex": "00:01",
+      "en": "00:01",
+      "ht": "00:01",
+      "hn": "00:01",
+      "at": "00:01",
       "fa": "00:01",
-      "ex": "01:00"
+      "hn_normais": "00:01",
+      "dsr_pagar": "00:01",
+      "dsr_extra": "00:01",
+      "dsr_total": "00:01",
+      "total_trabalhar": "00:01",
+      "total_trabalhado_dsr": "00:01"
     },
     {
       "id": 2,
@@ -19,8 +30,19 @@
       "firstOut": "11:58",
       "secondIn": "13:21",
       "secondOut": "18:00",
-      "fa": "02:01",
-      "ex": "03:00"
+      "ch": "00:03",
+      "ex": "00:03",
+      "en": "00:03",
+      "ht": "00:03",
+      "hn": "00:03",
+      "at": "00:03",
+      "fa": "00:03",
+      "hn_normais": "00:03",
+      "dsr_pagar": "00:03",
+      "dsr_extra": "00:03",
+      "dsr_total": "00:03",
+      "total_trabalhar": "00:03",
+      "total_trabalhado_dsr": "00:03"
     },
     {
       "id": 3,
@@ -30,8 +52,19 @@
       "firstOut": "11:58",
       "secondIn": "13:21",
       "secondOut": "18:00",
-      "fa": "00:01",
-      "ex": "01:00"
+      "ch": "02:01",
+      "ex": "02:01",
+      "en": "02:01",
+      "ht": "00:03",
+      "hn": "00:03",
+      "at": "00:03",
+      "fa": "00:013",
+      "hn_normais": "00:05",
+      "dsr_pagar": "00:05",
+      "dsr_extra": "00:05",
+      "dsr_total": "00:05",
+      "total_trabalhar": "00:05",
+      "total_trabalhado_dsr": "00:05"
     }
   ],
   "profile": {
