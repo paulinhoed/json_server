@@ -241,6 +241,28 @@
       "dsr_total": "00:05",
       "total_trabalhar": "00:05",
       "total_trabalhado_dsr": "00:05"
+    },
+    {
+      "id": 12,
+      "weekDay": "FERIADO",
+      "date": "99/99/2018",
+      "firstIn": "08:00",
+      "firstOut": "11:58",
+      "secondIn": "13:21",
+      "secondOut": "18:00",
+      "ch": "92:01",
+      "ex": "92:01",
+      "en": "92:01",
+      "ht": "90:03",
+      "hn": "90:03",
+      "at": "90:03",
+      "fa": "90:13",
+      "hn_normais": "99:05",
+      "dsr_pagar": "99:05",
+      "dsr_extra": "99:05",
+      "dsr_total": "99:05",
+      "total_trabalhar": "99:05",
+      "total_trabalhado_dsr": "99:05"
     }
   ],
   "profile": {
